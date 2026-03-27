@@ -1,0 +1,1 @@
+#Escreva um programa que pergunte o salário de um funcionário e calcule o valor do seu aumento . para salários superiores a R$1200,00 calcule um auemnto de 10% , para as inferiores ou iguais , calcule 15%.
